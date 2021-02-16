@@ -1,0 +1,9 @@
+ha ha ha,wo hui le
+di er ci ti jiao zhi jie
+git push -u origin master 
+
+ca march!!
+
+git add .
+git commit --message "blabla"
+git push -u origin master
